@@ -20,7 +20,7 @@ _아직 등록된 링크가 없습니다._
 
 ### 이재성
 
-_아직 등록된 링크가 없습니다._
+1주차 : [https://www.notion.so/Compose-Internals-324bee7f599680d19879c0b66e68ac9b?source=copy_link](https://www.notion.so/Compose-Internals-324bee7f599680d19879c0b66e68ac9b?source=copy_link)
 
 ### 함범준
 
