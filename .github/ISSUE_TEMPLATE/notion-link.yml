@@ -1,0 +1,48 @@
+name: 📎 노션 링크 등록
+description: 주차별로 정리한 Notion 페이지 링크를 README에 등록합니다.
+title: "[링크] "
+labels: ["notion-link"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 📚 Compose Internals 노션 링크 등록
+        아래 항목을 작성하면 자동으로 README에 반영됩니다.
+
+  - type: dropdown
+    id: member
+    attributes:
+      label: 👤 이름
+      description: 본인 이름을 선택해주세요.
+      options:
+        - 심은석
+        - 이재성
+        - 함범준
+    validations:
+      required: true
+
+  - type: input
+    id: week
+    attributes:
+      label: 📅 주차
+      description: 몇 주차 내용인지 숫자로 입력해주세요.
+      placeholder: "예: 1"
+    validations:
+      required: true
+
+  - type: input
+    id: notion-url
+    attributes:
+      label: 🔗 Notion URL
+      description: 정리한 Notion 페이지의 공유 링크를 붙여넣어 주세요.
+      placeholder: "https://notion.so/..."
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: ✅ 확인
+      options:
+        - label: Notion 링크가 외부 공개(Public)로 설정되어 있습니다.
+          required: true

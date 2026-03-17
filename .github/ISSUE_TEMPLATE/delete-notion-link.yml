@@ -1,0 +1,39 @@
+name: 🗑️ 노션 링크 삭제
+description: 잘못 등록된 Notion 링크를 삭제합니다.
+title: "[삭제] "
+labels: ["delete-notion-link"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 🗑️ 노션 링크 삭제
+        삭제 후 올바른 링크를 다시 등록하려면 [노션 링크 등록 이슈](../../issues/new/choose)를 새로 열어주세요.
+
+  - type: dropdown
+    id: member
+    attributes:
+      label: 👤 이름
+      description: 본인 이름을 선택해주세요.
+      options:
+        - 심은석
+        - 이재성
+        - 함범준
+    validations:
+      required: true
+
+  - type: input
+    id: week
+    attributes:
+      label: 📅 삭제할 주차
+      description: 삭제할 주차를 숫자로 입력해주세요.
+      placeholder: "예: 3"
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: ✅ 확인
+      options:
+        - label: 위 정보가 맞는지 다시 한번 확인했습니다.
+          required: true
