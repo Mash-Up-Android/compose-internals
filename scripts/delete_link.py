@@ -14,8 +14,8 @@ def main():
     body = os.environ.get("ISSUE_BODY", "")
     parsed = parse_issue_body(body)
 
-    member = parsed.get("이름", "").strip()
-    week = parsed.get("삭제할 주차", "").strip()
+    member = parsed.get("👤 이름", "").strip()
+    week = parsed.get("📅 삭제할 주차", "").strip()
 
     if not all([member, week]):
         fail("이름 또는 주차 정보가 누락되었습니다.")

@@ -8,9 +8,9 @@ def main():
     body = os.environ.get("ISSUE_BODY", "")
     parsed = parse_issue_body(body)
 
-    member = parsed.get("이름", "").strip()
-    week = parsed.get("주차", "").strip()
-    url = parsed.get("Notion URL", "").strip()
+    member = parsed.get("👤 이름", "").strip()
+    week = parsed.get("📅 주차", "").strip()
+    url = parsed.get("🔗 Notion URL", "").strip()
 
     if not all([member, week, url]):
         print(f"Error: Missing required fields. Parsed: {parsed}")
