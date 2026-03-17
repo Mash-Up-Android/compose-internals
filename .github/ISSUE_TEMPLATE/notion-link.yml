@@ -1,6 +1,6 @@
 name: 📎 노션 링크 등록
 description: 주차별로 정리한 Notion 페이지 링크를 README에 등록합니다.
-title: "[링크] "
+title: "X주차 : 이름"
 labels: ["notion-link"]
 body:
   - type: markdown
