@@ -20,7 +20,7 @@ _아직 등록된 링크가 없습니다._
 
 ### 이재성
 
-_아직 등록된 링크가 없습니다._
+1주차 : [https://snow-chestnut-45b.notion.site/1-Composable-324bee7f599680e69981c1359ab7cb6c?source=copy_link](https://snow-chestnut-45b.notion.site/1-Composable-324bee7f599680e69981c1359ab7cb6c?source=copy_link)
 
 ### 함범준
 
