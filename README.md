@@ -16,7 +16,7 @@
 <!-- NOTION_LINKS_START -->
 ### 심은석
 
-_아직 등록된 링크가 없습니다._
+1주차 : [https://www.notion.so/1-Composable-32fbee7f599680cc8f09d59c76251dd1?source=copy_link](https://www.notion.so/1-Composable-32fbee7f599680cc8f09d59c76251dd1?source=copy_link)
 
 ### 이재성
 
