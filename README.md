@@ -24,6 +24,6 @@
 
 ### 함범준
 
-_아직 등록된 링크가 없습니다._
+1주차 : [https://snow-chestnut-45b.notion.site/1-Composable-32fbee7f599680668573dcd23c55b323?source=copy_link](https://snow-chestnut-45b.notion.site/1-Composable-32fbee7f599680668573dcd23c55b323?source=copy_link)
 
 <!-- NOTION_LINKS_END -->
