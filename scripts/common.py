@@ -58,10 +58,12 @@ def generate_readme(links):
         member_links = links.get(member, {})
 
         if member_links:
+            lines.append("| 주차 | 노션 링크 |")
+            lines.append("| :--: | --------- |")
             sorted_weeks = sorted(member_links.keys(), key=lambda x: int(x))
             for week in sorted_weeks:
                 url = member_links[week]
-                lines.append(f"{week}주차 : [{url}]({url})")
+                lines.append(f"| {week}주차 | [노션 링크]({url}) |")
         else:
             lines.append("_아직 등록된 링크가 없습니다._")
 
