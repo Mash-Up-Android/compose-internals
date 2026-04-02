@@ -33,5 +33,6 @@
 | 주차 | 노션 링크 |
 | :--: | --------- |
 | 1주차 | [노션 링크](https://snow-chestnut-45b.notion.site/1-Composable-32fbee7f599680668573dcd23c55b323?source=copy_link) |
+| 2주차 | [노션 링크](https://snow-chestnut-45b.notion.site/2-Compose-The-Compose-Compiler-1-336bee7f599680139432d58d6f673b40?source=copy_link) |
 
 <!-- NOTION_LINKS_END -->
