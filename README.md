@@ -21,6 +21,7 @@
 ### 이재성
 
 1주차 : [https://snow-chestnut-45b.notion.site/1-Composable-324bee7f599680e69981c1359ab7cb6c?source=copy_link](https://snow-chestnut-45b.notion.site/1-Composable-324bee7f599680e69981c1359ab7cb6c?source=copy_link)
+2주차 : [https://snow-chestnut-45b.notion.site/2-333bee7f599680c8876afdb1bf1e8234?source=copy_link](https://snow-chestnut-45b.notion.site/2-333bee7f599680c8876afdb1bf1e8234?source=copy_link)
 
 ### 함범준
 
