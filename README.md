@@ -26,6 +26,7 @@
 | :--: | --------- |
 | 1주차 | [노션 링크](https://snow-chestnut-45b.notion.site/1-Composable-324bee7f599680e69981c1359ab7cb6c?source=copy_link) |
 | 2주차 | [노션 링크](https://snow-chestnut-45b.notion.site/2-333bee7f599680c8876afdb1bf1e8234?source=copy_link) |
+| 3주차 | [노션 링크](https://www.naver.com) |
 
 ### 함범준
 
