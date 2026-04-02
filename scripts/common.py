@@ -3,6 +3,16 @@ import os
 
 MEMBERS = ["심은석", "이재성", "함범준"]
 
+WEEKLY_SCOPE = {
+    "1": "1장 전체",
+    "2": "~ 2장. 진단 제지기",
+    "3": "~ 2장. 디폴트 매개변수",
+    "4": "~ 3장. 변경사항 모델링",
+    "5": "~ 3장. Composition 생성하기",
+    "6": "~ 4장. Compose UI 관점의 Subcomposition",
+    "7": "~ 4장. 측정 정책",
+}
+
 
 def parse_issue_body(body):
     sections = {}
@@ -58,12 +68,13 @@ def generate_readme(links):
         member_links = links.get(member, {})
 
         if member_links:
-            lines.append("| 주차 | 노션 링크 |")
-            lines.append("| :--: | --------- |")
+            lines.append("| 주차 | 범위 | 노션 링크 |")
+            lines.append("| :--: | ---- | --------- |")
             sorted_weeks = sorted(member_links.keys(), key=lambda x: int(x))
             for week in sorted_weeks:
                 url = member_links[week]
-                lines.append(f"| {week}주차 | [노션 링크]({url}) |")
+                scope = WEEKLY_SCOPE.get(week, "")
+                lines.append(f"| {week}주차 | {scope} | [노션 링크]({url}) |")
         else:
             lines.append("_아직 등록된 링크가 없습니다._")
 
