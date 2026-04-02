@@ -19,6 +19,7 @@
 | 주차 | 노션 링크 |
 | :--: | --------- |
 | 1주차 | [노션 링크](https://www.notion.so/1-Composable-32fbee7f599680cc8f09d59c76251dd1?source=copy_link) |
+| 2주차 | [노션 링크](https://www.notion.so/2-Compose-Compiler-part-1-334bee7f599680acb166ed0ed23ff79f?source=copy_link) |
 
 ### 이재성
 
