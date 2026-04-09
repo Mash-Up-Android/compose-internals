@@ -27,6 +27,7 @@
 | :--: | ---- | --------- |
 | 1주차 | 1장 전체 | [노션 링크](https://snow-chestnut-45b.notion.site/1-Composable-324bee7f599680e69981c1359ab7cb6c?source=copy_link) |
 | 2주차 | ~ 2장. 진단 제지기 | [노션 링크](https://snow-chestnut-45b.notion.site/2-333bee7f599680c8876afdb1bf1e8234?source=copy_link) |
+| 3주차 | ~ 2장. 디폴트 매개변수 | [노션 링크](https://snow-chestnut-45b.notion.site/2-337bee7f599680ebb871e9358976805c?source=copy_link) |
 
 ### 함범준
 
