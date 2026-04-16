@@ -38,5 +38,6 @@
 | 1주차 | 1장 전체 | [노션 링크](https://snow-chestnut-45b.notion.site/1-Composable-32fbee7f599680668573dcd23c55b323?source=copy_link) |
 | 2주차 | ~ 2장. 진단 제지기 | [노션 링크](https://snow-chestnut-45b.notion.site/2-Compose-The-Compose-Compiler-1-336bee7f599680139432d58d6f673b40?source=copy_link) |
 | 3주차 | ~ 2장. 디폴트 매개변수 | [노션 링크](https://snow-chestnut-45b.notion.site/2-Compose-The-Compose-Compiler-2-33dbee7f599680d6a27cff0dd1ec0d68?source=copy_link) |
+| 4주차 | ~ 3장. 변경사항 모델링 | [노션 링크](https://snow-chestnut-45b.notion.site/3-342bee7f599680de8e98fea358ee095c?source=copy_link) |
 
 <!-- NOTION_LINKS_END -->
