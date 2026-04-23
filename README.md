@@ -22,6 +22,7 @@
 | 2주차 | ~ 2장. 진단 제지기 | [노션 링크](https://www.notion.so/2-Compose-Compiler-part-1-334bee7f599680acb166ed0ed23ff79f?source=copy_link) |
 | 3주차 | ~ 2장. 디폴트 매개변수 | [노션 링크](https://www.notion.so/33bbee7f59968004b8cbff8ab7b168b9?source=copy_link) |
 | 4주차 | ~ 3장. 변경사항 모델링 | [노션 링크](https://www.notion.so/3-341bee7f599680cfa198da9b104d2db2?source=copy_link) |
+| 5주차 | ~ 3장. Composition 생성하기 | [노션 링크](https://snow-chestnut-45b.notion.site/3-Composition-348bee7f599680ef9179f6bb9f447c66?source=copy_link) |
 
 ### 이재성
 
