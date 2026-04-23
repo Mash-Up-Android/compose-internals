@@ -31,6 +31,7 @@
 | 2주차 | ~ 2장. 진단 제지기 | [노션 링크](https://snow-chestnut-45b.notion.site/2-333bee7f599680c8876afdb1bf1e8234?source=copy_link) |
 | 3주차 | ~ 2장. 디폴트 매개변수 | [노션 링크](https://snow-chestnut-45b.notion.site/2-337bee7f599680ebb871e9358976805c?source=copy_link) |
 | 4주차 | ~ 3장. 변경사항 모델링 | [노션 링크](https://snow-chestnut-45b.notion.site/3-33ebee7f5996805fba1edaf70f3692a8?source=copy_link) |
+| 5주차 | ~ 3장. Composition 생성하기 | [노션 링크](https://snow-chestnut-45b.notion.site/3-Composition-348bee7f599680ef9179f6bb9f447c66?source=copy_link) |
 
 ### 함범준
 
