@@ -45,5 +45,6 @@
 | 3주차 | ~ 2장. 디폴트 매개변수 | [노션 링크](https://snow-chestnut-45b.notion.site/2-Compose-The-Compose-Compiler-2-33dbee7f599680d6a27cff0dd1ec0d68?source=copy_link) |
 | 4주차 | ~ 3장. 변경사항 모델링 | [노션 링크](https://snow-chestnut-45b.notion.site/3-342bee7f599680de8e98fea358ee095c?source=copy_link) |
 | 5주차 | ~ 3장. Composition 생성하기 | [노션 링크](https://snow-chestnut-45b.notion.site/3-Composition-34bbee7f5996806cb1aef52bafb8e264?source=copy_link) |
+| 6주차 | ~ 4장. Compose UI 관점의 Subcomposition | [노션 링크](https://snow-chestnut-45b.notion.site/4-Compose-UI-Subcomposition-352bee7f599680e98106c29d0a1e2589?source=copy_link) |
 
 <!-- NOTION_LINKS_END -->
