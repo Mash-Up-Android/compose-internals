@@ -23,6 +23,7 @@
 | 3주차 | ~ 2장. 디폴트 매개변수 | [노션 링크](https://www.notion.so/33bbee7f59968004b8cbff8ab7b168b9?source=copy_link) |
 | 4주차 | ~ 3장. 변경사항 모델링 | [노션 링크](https://www.notion.so/3-341bee7f599680cfa198da9b104d2db2?source=copy_link) |
 | 5주차 | ~ 3장. Composition 생성하기 | [노션 링크](https://www.notion.so/3-Composition-349bee7f5996801d9f53fa83b11ac935?source=copy_link) |
+| 6주차 | ~ 4장. Compose UI 관점의 Subcomposition | [노션 링크](https://www.notion.so/4-Compose-UI-Subcomposition-350bee7f599680cf9096c426033908eb?source=copy_link) |
 
 ### 이재성
 
